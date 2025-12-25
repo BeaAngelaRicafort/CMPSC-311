@@ -1,1 +1,1 @@
-Please refer to Lab2.pdf.
+Please refer to ReadMe_Lab2 PDF.
