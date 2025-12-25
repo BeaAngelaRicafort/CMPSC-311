@@ -1,1 +1,1 @@
-Please refer to the Lab1_ReadMe PDF for lab description.
+Please refer to the ReadMe_Lab1 PDF for lab description.
